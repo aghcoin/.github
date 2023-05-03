@@ -16,7 +16,7 @@ Some packages may need dependencies that are not included in the package or pack
 
 ## Libraries
 
-### [Testing Package](https://github.com/aghcoin/coinpkg.testingpackage.git) - coinpkg.testingpackage
+### [Testing Package](https://github.com/aghcoin/coinpkg.testpackage.git) - coinpkg.testpackage
 Simple script for testing purposes.
 
 ### [PlayFab Services](https://github.com/aghcoin/coinpkg.playfabservices.git) - coinpkg.playfabservices
