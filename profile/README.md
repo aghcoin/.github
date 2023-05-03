@@ -1,7 +1,5 @@
 # AGH Code Industry Library
 
-## Description
-
 AGH Code Industry Library is a set of ready to use components for building games in Unity.
 
 Each repository contains a separate functionality, which can be used independently.
