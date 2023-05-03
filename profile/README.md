@@ -6,9 +6,9 @@ Each repository contains a separate functionality, which can be used independent
 
 ## Installation
 
-To install the library, copy link to repository containing desired component, open Unity Package Manager, click on `+` button and select `Add package from git URL...` option.
+**Installation link must end with .git**: `https://github.com/aghcoin/coinpkg.playfabservices.git`
 
-**Link must end with .git**: `https://github.com/aghcoin/coinpkg.playfabservices.git`
+To install the library, copy link to repository containing desired component, open Unity Package Manager, click on `+` button and select `Add package from git URL...` option.
 
 Some packages may need dependencies that are not included in the package or package manifest. In this case, you will need to install them manually.
 
