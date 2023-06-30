@@ -4,6 +4,8 @@ AGH Code Industry Library is a set of ready to use components for building games
 
 Each repository contains a separate functionality, which can be used independently.
 
+Documentation and examples of all libraries can be found [here](https://aghcoin.github.io/articles/get_started/introduction.html).
+
 ## Installation
 
 **Installation link must end with .git**: `https://github.com/aghcoin/coinpkg.playfabservices.git`
@@ -21,3 +23,6 @@ Simple script for testing purposes.
 
 ### [PlayFab Services](https://github.com/aghcoin/coinpkg.playfabservices.git) - coinpkg.playfabservices
 Integration with [PlayFab](https://playfab.com) - popular cloud services for games.
+
+### [Debugging](https://github.com/aghcoin/coinpkg.debugging.git) - coinpkg.debugging
+Better debugging and logging, with colors!
