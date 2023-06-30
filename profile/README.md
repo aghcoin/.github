@@ -4,7 +4,7 @@ AGH Code Industry Library is a set of ready to use components for building games
 
 Each repository contains a separate functionality, which can be used independently.
 
-Documentation and examples of all libraries can be found [here](https://aghcoin.github.io/articles/get_started/introduction.html).
+Documentation and examples for all libraries can be found [here](https://aghcoin.github.io/articles/get_started/introduction.html).
 
 ## Installation
 
